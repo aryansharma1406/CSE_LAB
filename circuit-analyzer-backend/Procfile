@@ -1,0 +1,2 @@
+web: python circuit_analyzer.py
+
